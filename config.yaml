@@ -29,3 +29,5 @@ menu:
   - identifier: post
     name: 文章
     url: /posts/
+params:
+  github: https://github.com/joez
