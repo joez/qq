@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/about/</loc>
+    <lastmod>2020-01-28T16:44:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/tags/about/</loc>
+    <lastmod>2020-01-28T16:44:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/tags/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/tags/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/</loc>
+    <lastmod>2020-01-28T16:44:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/tags/</loc>
+    <lastmod>2020-01-28T16:44:33+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/posts/hello/</loc>
+    <lastmod>2020-01-28T16:19:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/posts/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/posts/hello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/tags/hello/</loc>
+    <lastmod>2020-01-28T16:19:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/tags/hello/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/tags/hello/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/posts/</loc>
+    <lastmod>2020-01-28T16:19:46+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/categories/"
+                />
+  </url>
+  
+</urlset>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>我的新世界</title>
+    <link>https://joez.github.io/qq/</link>
+    <description>Recent content on 我的新世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jan 2020 16:42:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://joez.github.io/qq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>关于</title>
+      <link>https://joez.github.io/qq/about/</link>
+      <pubDate>Tue, 28 Jan 2020 16:42:19 +0800</pubDate>
+      
+      <guid>https://joez.github.io/qq/about/</guid>
+      <description>我是⚫⚫</description>
+    </item>
+    
+    <item>
+      <title>初次见面</title>
+      <link>https://joez.github.io/qq/posts/hello/</link>
+      <pubDate>Tue, 28 Jan 2020 16:18:46 +0800</pubDate>
+      
+      <guid>https://joez.github.io/qq/posts/hello/</guid>
+      <description>🚀👽初次见面💓，请多关照🌻😄</description>
+    </item>
+    
+  </channel>
+</rss>

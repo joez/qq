@@ -1,7 +1,7 @@
 ---
 title: "关于"
 date: 2020-01-28T16:42:19+08:00
-draft: true
+draft: false
 tags: [about]
 ---
 

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 我的新世界</title>
+    <link>https://joez.github.io/qq/tags/</link>
+    <description>Recent content in Tags on 我的新世界</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 28 Jan 2020 16:42:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://joez.github.io/qq/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>about</title>
+      <link>https://joez.github.io/qq/tags/about/</link>
+      <pubDate>Tue, 28 Jan 2020 16:42:19 +0800</pubDate>
+      
+      <guid>https://joez.github.io/qq/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hello</title>
+      <link>https://joez.github.io/qq/tags/hello/</link>
+      <pubDate>Tue, 28 Jan 2020 16:18:46 +0800</pubDate>
+      
+      <guid>https://joez.github.io/qq/tags/hello/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

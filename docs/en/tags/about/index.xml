@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on My New World</title>
+    <link>https://joez.github.io/qq/en/tags/about/</link>
+    <description>Recent content in about on My New World</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jan 2020 16:44:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://joez.github.io/qq/en/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://joez.github.io/qq/en/about/</link>
+      <pubDate>Tue, 28 Jan 2020 16:44:33 +0800</pubDate>
+      
+      <guid>https://joez.github.io/qq/en/about/</guid>
+      <description>I am ⚫⚫</description>
+    </item>
+    
+  </channel>
+</rss>
