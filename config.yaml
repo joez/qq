@@ -1,9 +1,9 @@
 baseURL: https://joez.github.io/qq
+title: 我的新世界
 languageCode: zh-cn
 hasCJKLanguage: true
 DefaultContentLanguage: zh
-sectionPagesMenu: main
-title: 我的新世界
+enableEmoji: true
 theme: ananke
 publishDir: docs
 languages:
@@ -14,3 +14,18 @@ languages:
     languageName: English
     weight: 2
     title: My New World
+    languageCode: en-us
+    menu:
+      main:
+      - identifier: about
+        name: About
+      - identifier: post
+        name: Posts
+menu:
+  main:
+  - identifier: about
+    name: 关于
+    url: /about/
+  - identifier: post
+    name: 文章
+    url: /posts/
