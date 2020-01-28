@@ -1,0 +1,5 @@
+baseURL: https://joez.github.io/qq
+languageCode: en-us
+title: My New World
+theme: ananke
+publishDir: docs
