@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 我的新世界</title>
-    <link>https://joez.github.io/qq/posts/</link>
-    <description>Recent content in Posts on 我的新世界</description>
+    <title>idea on 我的新世界</title>
+    <link>https://joez.github.io/qq/tags/idea/</link>
+    <description>Recent content in idea on 我的新世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 31 Jan 2020 09:39:07 +0800</lastBuildDate>
     
-	<atom:link href="https://joez.github.io/qq/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://joez.github.io/qq/tags/idea/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://joez.github.io/qq/posts/hanging-note-card/</guid>
       <description>这是我做的可悬挂便签卡，还不错吧😉 设计图 正面 反面</description>
-    </item>
-    
-    <item>
-      <title>初次见面</title>
-      <link>https://joez.github.io/qq/posts/hello/</link>
-      <pubDate>Tue, 28 Jan 2020 16:18:46 +0800</pubDate>
-      
-      <guid>https://joez.github.io/qq/posts/hello/</guid>
-      <description>🚀👽初次见面💓，请多关照🌻😄</description>
     </item>
     
   </channel>
