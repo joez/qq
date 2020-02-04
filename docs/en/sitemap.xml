@@ -3,6 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://joez.github.io/qq/en/posts/eat-orange-in-new-way/</loc>
+    <lastmod>2020-02-04T15:21:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/posts/eat-orange-in-new-way/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/posts/eat-orange-in-new-way/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/</loc>
+    <lastmod>2020-02-04T15:21:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://joez.github.io/qq/en/posts/</loc>
+    <lastmod>2020-02-04T15:21:51+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://joez.github.io/qq/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://joez.github.io/qq/en/posts/"
+                />
+  </url>
+  
+  <url>
     <loc>https://joez.github.io/qq/en/tags/idea/</loc>
     <lastmod>2020-01-31T09:40:38+08:00</lastmod>
     <xhtml:link
@@ -18,21 +63,6 @@
   </url>
   
   <url>
-    <loc>https://joez.github.io/qq/en/</loc>
-    <lastmod>2020-01-31T09:40:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://joez.github.io/qq/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://joez.github.io/qq/en/"
-                />
-  </url>
-  
-  <url>
     <loc>https://joez.github.io/qq/en/posts/hanging-note-card/</loc>
     <lastmod>2020-01-31T09:40:38+08:00</lastmod>
     <xhtml:link
@@ -44,21 +74,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://joez.github.io/qq/en/posts/hanging-note-card/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://joez.github.io/qq/en/posts/</loc>
-    <lastmod>2020-01-31T09:40:38+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://joez.github.io/qq/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://joez.github.io/qq/en/posts/"
                 />
   </url>
   
