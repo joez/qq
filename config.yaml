@@ -31,3 +31,4 @@ menu:
     url: /posts/
 params:
   github: https://github.com/joez
+  featured_image: /images/header-bg.svg
